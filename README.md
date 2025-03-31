@@ -1,19 +1,36 @@
-# Syed Umair Ul Hassan
+👋 Hi, I'm Syed Umair Ul Hassan!
+🚀 Full Stack Website Developer | AI Engineer
 
-👋 Hi, I'm Syed Umair Ul Hassan, a Full Stack Web Developer with a passion for creating dynamic and innovative websites.
+I specialize in building scalable, high-performance web applications and seamlessly integrating AI-powered solutions into modern platforms. With a strong background in Python, Django, and JavaScript, I have developed AI-driven image processing tools, search engines, and real-time communication applications across multiple industries.
 
-👀 I’m deeply interested in web development and constantly exploring new technologies to enhance user experiences.
+🔧 Tech Stack & Expertise
+Frontend: React.js, JavaScript, Bootstrap
 
-🌱 Currently, I'm diving into WebXR and Three.js to build immersive web applications, while also honing my skills in AI development.
+Backend: Django, Django REST Framework, FastAPI
 
-💻 My tech stack includes:
-- HTML, CSS, JavaScript, Bootstrap, jQuery
-- React.js, Three.js, WebXR
-- Python, Django
-- AI development
+AI & Machine Learning: TensorFlow, PyTorch, ONNX
 
-<!---
-alphadeveloper12/alphadeveloper12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Databases: PostgreSQL, MongoDB, Firebase
 
+DevOps & Cloud: AWS, Docker, VPS Hosting
+
+Other Skills: WebSockets, RESTful APIs, Search Engine Development
+
+🏆 Projects & Contributions
+🔍 Orion Search Engine: A robust AI-driven search platform.
+
+📸 FramMe Photo Editor: AI-powered image processing and enhancement tool.
+
+📱 Bubble App: A real-time messaging platform with WebSockets and Django Channels.
+
+📩 WhatsApp API Integration: Bulk message visualization, real-time tracking of forwarding & read status.
+
+🎯 FunMob: An ad management system for digital campaigns.
+
+💡 What I Love
+✔️ Architecting AI-powered applications
+✔️ Optimizing model performance & automation
+✔️ Mentoring and leading development teams
+✔️ Staying ahead in AI, web development, and cloud technologies
+
+📫 Let’s Connect!
